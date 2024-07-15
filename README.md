@@ -1,10 +1,10 @@
-# Speech Recognition App
+# AI Assisstant
 
 <img src="./src/assets/images/readme-image1.png"/>
 
 ## Overview
 
-A React application that utilizes the Web Speech API for speech recognition and transcription. It supports continuous listening and provides a simple interface for starting, stopping, and resetting the speech recognition process.
+AIA is your intelligent assistant for asking questions, analyzing images, comparing multiple images, and automatic speech-to-text transcription.
 
 ## Features
 
