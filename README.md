@@ -1,6 +1,6 @@
 # Speech Recognition App
 
-<img src=""/>
+<img src="./src/assets/images/readme-image1.png"/>
 
 ## Overview
 
@@ -24,6 +24,8 @@ A React application that utilizes the Web Speech API for speech recognition and 
 - **APIs**: OpenAI API, Javascript Speech Recognition
 
 ## Usage
+
+<img src="./src/assets/images/readme-image2.png"/>
 
 ### 1. Ask Questions:
 
